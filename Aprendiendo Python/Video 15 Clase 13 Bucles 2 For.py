@@ -71,6 +71,7 @@ else:
 
 contador=0
 EmailUser=input("Introduce tu Email: ")
+
 # En este caso creamos 2 variables una que es contador que le dimos el valor 0 y la variable con la funcion input para introducir lo del teclado
 
 for i in EmailUser: # Aqui creamos un bucle dando con lo que el usuario introduzca en el teclado en este caso al variable EmailUser
