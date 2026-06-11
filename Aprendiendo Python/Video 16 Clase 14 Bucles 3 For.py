@@ -29,13 +29,33 @@ len("juan") # Aqui nos devovler la cantidad de caracteres que estan dentro del (
 Valido=False
 EmailUser=input("Introduce tu Email: ")
 
-for i in range(len(email)): # Este bucle for lo que hace es en len devolver la logintud del string (En este caso de la variable EmailUser) nos devolveria la cantidad de elementos
+for i in range(len(EmailUser)): # Este bucle for lo que hace es en len devolver la logintud del string (En este caso de la variable EmailUser) nos devolveria la cantidad de elementos
     # o en otras palabras dara la cantidad de vuelta de bucles como lo tenemos en "@" hasta que no de el @ no lo dara como valido
 
-    if email[i]=="@":
-        valido=True
+    if EmailUser[i]=="@":
+        Valido=True
 
-if valido:
+if Valido:
+
+    print("El Email es correcto")
+
+else:
+    
+    print("Email incorrecto")
+
+
+   
+   
+    
+    
+    # Ejemplo Codigo un poco mas detallado
+    
+    for i in range(len(EmailUser)):
+        if EmailUser[i]=="@" and "outlook.com" in EmailUser:
+            Valido=True
+
+
+if Valido:
 
     print("El Email es correcto")
 
