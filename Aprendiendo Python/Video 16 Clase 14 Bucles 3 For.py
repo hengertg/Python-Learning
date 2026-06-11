@@ -49,9 +49,13 @@ else:
     
     
     # Ejemplo Codigo un poco mas detallado
+
+
+Valido=False
+EmailUser=input("Introduce tu Email: ")
     
-    for i in range(len(EmailUser)):
-        if EmailUser[i]=="@" and "outlook.com" in EmailUser:
+for i in range(len(EmailUser)):
+        if EmailUser[i]=="@" and ("outlook.com" in EmailUser):
             Valido=True
 
 
