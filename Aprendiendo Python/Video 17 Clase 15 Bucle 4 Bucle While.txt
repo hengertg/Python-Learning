@@ -1,0 +1,15 @@
+Hoy veremos el bucle while
+
+El bucle while es un bucle indeterminado porque no sabemos cuantas veces ejecutara en su interior
+
+La sintaxxis del bucle while
+
+la sintaxis del bucle while es while
+    
+    Ejemplo:
+
+    while condicion:
+        cuerpo del bucle
+
+
+La traducion de while seria mientras que
