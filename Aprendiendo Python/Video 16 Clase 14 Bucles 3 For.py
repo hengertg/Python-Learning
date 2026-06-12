@@ -53,9 +53,10 @@ else:
 
 Valido=False
 EmailUser=input("Introduce tu Email: ")
+Lower=EmailUser.lower
     
-for i in range(len(EmailUser)):
-        if EmailUser[i]=="@" and ("outlook.com" in EmailUser):
+for i in range(len(Lower)):
+        if Lower[i]=="@" and ("outlook.com" in Lower):
             Valido=True
 
 
