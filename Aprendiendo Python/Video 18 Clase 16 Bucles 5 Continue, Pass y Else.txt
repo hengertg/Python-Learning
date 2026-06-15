@@ -1,0 +1,12 @@
+Hoy veremos las intruscciones cotniue, pass y else
+
+Continue lo que hace es ignorar la vuelta de bucle y salta a la siguiente vuelta de bucle
+
+
+Instruccion pass
+
+Lo que hace es que devuelva null o en otras palabras que no ejecute el bucle o una linea de codigo para dejarlo para despues
+
+La instruccion else
+
+Funciona igual al a funcion condicional como IF tiene la misma funcion dentro de un bucle
