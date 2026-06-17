@@ -1,0 +1,35 @@
+Generadores:
+
+Los generadores son estructuras que extraen valores de una funcion y se almacenan en objetos iterables ( que pueden reccorer) por ejemplos en bucles, while, for o incluso
+con estrucutares que nos conocemos como el iteradores y metodo net
+
+estos valores se almacenan de uno en uno
+
+cada vez que un generador almacena un valor , esta permance en un estado pausado hasta que se solicita la siguiente. Esta caracteristica
+es conocida como "suspension de estado".
+
+
+Que utilidad tienen los generadores?
+Los generadores son utiles para manejar grandes cantidades de datos o secuencias infinitas, ya que permiten generar valores bajo demanda sin necesidad de almacenar toda
+ la secuencia en memoria. Esto los hace eficientes en términos de memoria y rendimiento.
+
+ bajo determinados escenarios , sera muy util que un generador devuelva los valores de uno en uno.
+
+ para hacer un generador en python, se utiliza la palabra clave "yield" en lugar de "return". La función que contiene "yield" se convierte en un generador y puede ser iterada.
+
+ y tambien debemos definir una funcion con la palabra def, la funcion y luego utilizamos yield para generar los valores. ejemplo:
+
+ def generador():
+    yield 1
+    yield 2
+    yield 3
+
+Tambien un generador puede llevar un return, pero este se utiliza para indicar el final del generador y no para devolver un valor. Cuando se alcanza un return en un generador,
+ se lanza una excepción StopIteration para indicar que no hay más valores que generar.
+
+ Ejemplo de generador con return:
+ 
+def generador_con_return():
+    yield 1
+    yield 2
+    return "Fin del generador"
