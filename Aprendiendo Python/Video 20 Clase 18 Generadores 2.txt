@@ -1,0 +1,6 @@
+Generadores 2
+
+Yield From
+
+La utilizad de Yield from es simplificar el código de los generadores, es decir, es una forma de delegar parte de las operaciones a otro generador.
+ Esto es especialmente útil cuando se tiene un generador que necesita llamar a otro generador para obtener valores.
