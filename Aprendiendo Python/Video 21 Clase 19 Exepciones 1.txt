@@ -1,0 +1,5 @@
+Exepciones
+
+En el dia de hoy vewremos las Exepciones
+Las exepciones son errores que occurren durante la ejecucion del programa.
+La sintaxis del codigo es correcta pero durante la ejecuccion ha ocurrido "algo inesperado"
