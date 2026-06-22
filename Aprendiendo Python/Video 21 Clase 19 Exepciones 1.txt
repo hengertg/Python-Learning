@@ -3,3 +3,29 @@ Exepciones
 En el dia de hoy vewremos las Exepciones
 Las exepciones son errores que occurren durante la ejecucion del programa.
 La sintaxis del codigo es correcta pero durante la ejecuccion ha ocurrido "algo inesperado"
+
+por ejemplo si tenemos este error en la cual tenemos una division de 1 numero entre cero
+
+File "/home/henger/Desktop/Git Hub Repositorys/Python-Learning/Aprendiendo Python/prueba_excepciones.py", line 30, in <module>
+    print(divide(op1,op2))
+          ~~~~~~^^^^^^^^^
+  File "/home/henger/Desktop/Git Hub Repositorys/Python-Learning/Aprendiendo Python/prueba_excepciones.py", line 11, in divide
+    return num1/num2
+           ~~~~^~~~~
+ZeroDivisionError: division by zero
+
+lo que podriamos hacer es una captura o control de exepciones
+
+una captura o control de expecion es decirle que intenta realizar la instruccion y en caso de que no puedas que el resto del programa se ejecute
+
+
+podriamos usar  la instrucion try: except y el nomrbe del error
+
+ejemplo de try: except
+
+def divide(num1,num2):
+    try:
+        return num1/num2
+    except ZeroDivisionError:
+        print("No se puede dividr entre 0")
+        return "Operacion Erronea"
