@@ -11,3 +11,11 @@ ciudades_devueltas=devuelve_ciudades("Santo Domingo", "Madrid", "Bogota", " Miam
 print(next(ciudades_devueltas))
 
 print(next(ciudades_devueltas))
+
+def divide():
+    op1=(float(input("Introduce el primer numero: ")))
+    op2=(float(input("Introduce el segundo numero: ")))
+
+    print(f"La division es", {op1}/{op2})
+
+    print ("Calculo finalizado")
