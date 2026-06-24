@@ -1,0 +1,84 @@
+Hoy Veremos POO
+
+Que es POO?
+
+POO es un paradigma de programas orientados a objetos
+
+Hay 2 formas de programar
+
+Paradigmas
+
+La primera forma es programacion orientada a procedimientos y programacion orientada a objetos
+
+Los lenguajes de programacion orientadas a procedimiento son los lenguajes de programacion antiguos que surgiendo en la decada de los 60 y 70
+
+Y los lenguajes de programacion orientados a objetos son los lenguajes de programacion mododernos
+
+Algunos ejemplo de lenguajes programacion orientada a procedimientos
+
+Fortran, Colbol, Basic, ETC
+
+Desventajas 
+
+Unidades de codigo muy grandes en aplicaciones complejas
+
+En aplicaciones complejas el codigo resultaba dificil de descifrar
+
+Poco reutilizable.
+
+Si existe fallo en alguna linea del codigo es muy probable que caiga.
+
+Aparicion frecuente de codigo espagueti
+
+Dificl de depurar por otros programadores en caso de necesidad o error.
+
+Programacion orientada a objetos
+
+En que consiste?
+
+Trasladar la naturaleza de los obnjetos de la videa real al codigo de programacion.
+
+Cual es la naturaleza de un objeto de la vida real?
+
+Los objetos tienen un estado, comprotamiento (Que puede hacer?), y unas propiedades
+
+POngamos un ejemplo: el objeto carro
+
+Cual es el estado de un carro? un carro puede estar parado, circulandomaparcado ETC
+
+Que propiedades tiene un carro? un carro tiene color, procedimientos, un tamano etc.
+
+Que comportamiento tiene un carro? un carro puede arrancar, frenar,acelerar,girar, etc.
+
+Programacion orientada a objetos:
+
+Algunos ejemplo de lenguajes: C++, Java, Visual.naturalezaETC
+
+Ventajas:
+
+Programas divididos en "trozos", "partes", "modulos" o "clases".
+
+Modularizacion.
+
+Muy reutilizable. herencia.
+
+Si existe fallo en alguna linea del codigo, el programa continuara con su funcionamiento. Tratamiento de exepciones.
+
+Encapsulamiento.
+
+Vocabulario de POO
+
+clase
+
+objeto
+
+ejemplar de clase/ instacia de clase. Ejemplarizar uan clase
+Instanciar una clase.
+
+Modularizacion
+
+Encapsulamiento/ encapsulacion.
+
+herencia
+
+Polimorfismo
