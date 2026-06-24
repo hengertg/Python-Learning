@@ -1,0 +1,7 @@
+En el dia de hoy veremos:
+
+El lanzamiento de exepciones
+
+Instruccion Raise
+
+Creacion de exepciones propias(Mas adelante en el curso cuando veamos la POO)
