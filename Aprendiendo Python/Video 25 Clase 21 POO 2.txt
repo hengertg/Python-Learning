@@ -1,0 +1,60 @@
+En el dia de hoy veremos
+
+Conceptos o terminos dew la POO
+
+Clase
+Objeto
+Ejemplar de clase. Instancia de clase. Ejemplarizar una clase. Instanciar una clase 
+Encapsulamiento / encapsulacion
+Herencia
+Polimorfismo
+
+Clase
+
+Se puede definir como modelos donde se redactan las caracteristicas comunes de un grupo de objetos
+
+por ejemplo en un vehiculo donde serian el chasis y las ruedas
+
+Instancia
+
+Una instancia seria un objeto o ejemplar perteneciente a una clase
+
+Como en el ejemplo en un vechiulo donde la clase seria el chasis
+
+El objeto vendria siendo el vehiculo pero siempre van a pertenecer a la clase no importa si son objetos diferentes
+en la misma clase
+
+Modularizacion
+
+Cuando uno crea una aplicacion compleja es normal que este formado por varias clases
+
+El concepto de modularizacion deriva que una aplicacion puede estar completa de varias clases
+
+Cada modulo funciona de manera independiente y puede ser reutilizado en otras aplicaciones
+
+Ejemplo si tenemos varios modulos o varias clases si una de ellas tiene un error no afecta a las otras clases y sigue funcionando de manera independiente no se caera por completo el sistema
+
+Encapsulacion
+
+Que es la encapsulacion? es un mecanismo que permite ocultar los detalles de implementacion de una clase y exponer solo lo necesario para que otros objetos puedan interactuar con ella
+
+Los metodos de accessos consigues conectar una clase con otra clase y asi poder interactuar entre ellas pero estos metodos de accesso solo tendran acceso a ciertas caracteristicas de la clase
+
+para poder acceder a las propiedas de un objeto se utiliza algo llamado nomenclatura del punto ejemplo
+
+objeto:
+
+accediendo a propiedades de objeto desde codigo(pseudocodigo):
+
+miVehiculo.color = "rojo";
+miVehiculo.peso = 1500;
+miVehiculo.ancho = 2000;
+miVehiculo.alto = 900;
+
+Accediendo a comportamiento de objeto desde codigo(pseudocodigo):
+miVehiculo.arranca();
+miVehiculo.frena();
+miVehiculo.gira();
+miVehiculo.acelera();
+
+asi se usa la nomenclatura del punto
