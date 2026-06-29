@@ -19,7 +19,7 @@ class Car():
 
         self.__wheels=4 # Aqui esta variable estaria encapsulada porque anadimos __
 
-        self.__underway=False
+        self.__running=False
 
   
 
@@ -27,9 +27,9 @@ class Car():
 
         # Esto lo que esta haciendo 2 tareas en 1
 
-        self.__underway=starting # Aqui aplicamos lo que haria o lo que representaria en este caso como queremos que el carro inicie tendriamos que poner el underway=starting porque es la variable que hicimos para que inicie
+        self.__running=starting # Aqui aplicamos lo que haria o lo que representaria en este caso como queremos que el carro inicie tendriamos que poner el underway=starting porque es la variable que hicimos para que inicie
 
-        if(self.__underway): # aqui esta diciendo que si self.underway es igual a true nos dara el mensaje el carro esta iniciando como previamente hicimos que se.underway=starting
+        if(self.__running): # aqui esta diciendo que si self.underway es igual a true nos dara el mensaje el carro esta iniciando como previamente hicimos que se.underway=starting
             return"The car is starting"
 
         else: 

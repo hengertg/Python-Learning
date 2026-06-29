@@ -2,7 +2,7 @@ class Car(): # Para crear una clase primero va Class + nombre de la clase en may
     largeChasis=250 # Receuerda que las clase tiene propiedades en este ejemplo esta la priemra propiedad de la clase que es largeChasis y su valor es 250
     widthChasis=120
     wheel=4
-    starting=False
+    running=False
 
     # Recordamos que un carro tiene un comportamiento y para eso se crean metodos que son funciones dentro de la clase y para crear un metodo se hace de la misma manera que una funcion pero con la diferencia
     #  que el primer parametro es self que hace referencia a la clase y a sus propiedades
@@ -11,7 +11,7 @@ class Car(): # Para crear una clase primero va Class + nombre de la clase en may
         # y su indentacion correspondiente, tambien se coloca self, esto hace referencia al propio objeto de la clase y a sus propiedades.
         # en python es obligatorio colocar el self mientras que en otro lenguajes de programacion se usa this y no es obligatorio colocarlo.
 
-        self.starting=True # Aqui se esta accediendo a la propiedad state de la clase Car y se le esta asignando el valor True, esto indica que el carro esta encendido.
+        self.running=True # Aqui se esta accediendo a la propiedad state de la clase Car y se le esta asignando el valor True, esto indica que el carro esta encendido.
                         # Para hacer esto es de la siguiente manera self + state + valor, en otras palabras el parametro + la propieda de la clase state + el valor.
                         # Python nos obliga especificar el self
 
@@ -20,8 +20,8 @@ class Car(): # Para crear una clase primero va Class + nombre de la clase en may
     # Estableceriamos otro comportamiento como en el siguiente ejemplo
 
     def state(self): # Aqui creariamos un metodo para el estado del Car en este ejemplo seria def + funcion o metodo + (self)
-        if(self.starting): # Luego dariamos la condicion con el if, aqui no es necesario = True porque aunque no lo pusieramos ya python lo detecta automatica mente como True
-            return "The car is starting" # El return o el mensaje
+        if(self.running): # Luego dariamos la condicion con el if, aqui no es necesario = True porque aunque no lo pusieramos ya python lo detecta automatica mente como True
+            return "The car is running" # El return o el mensaje
         
         else: # Luego la condicion else en dado caso de que no se cumpla
 

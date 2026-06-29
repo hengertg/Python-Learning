@@ -1,0 +1,19 @@
+ Hoy veremos las herencias
+
+ En Python, la herencia es una herramienta de la Programación Orientada a Objetos que permite crear una clase nueva tomando los atributos (datos) y métodos (funciones) de una clase existente.
+  Esto ayuda a no repetir código y a crear estructuras organizadas.
+
+ Utilidad de herencias
+
+ La herencia sirve para reutilizar codigo en caso de crear objetos similares
+
+ Una pregunta buena serai que caractesticas en comun tienen los objetos que vas a crear
+
+ Tambien hay que preguntarse que comportamiento tienen en comun los objetos
+
+ Si la herencia no existiera para crear los objetos tendriamos que contruirlor o escribir el codigo de 1 en 1
+
+ Para evitar contruir un objeto que se parece uno a otro seria englobarlo en una clase, osea una clase global o clase padre
+
+se trata de construir una unica clase con todas las propiedades y metodos en comun y luego las particularidades de uno de ellos
+contruirlo en su propia clase
