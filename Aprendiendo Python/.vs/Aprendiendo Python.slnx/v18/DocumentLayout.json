@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Pemka_t9ewg1d\\OneDrive\\Desktop\\GitHub Repositorys\\Python-Learning\\Aprendiendo Python\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pemka_t9ewg1d\\OneDrive\\Desktop\\GitHub Repositorys\\Python-Learning\\Aprendiendo Python\\Video 26 Clase 24 POO 4.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Video 26 Clase 24 POO 4.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pemka_t9ewg1d\\OneDrive\\Desktop\\GitHub Repositorys\\Python-Learning\\Aprendiendo Python\\Video 29 Clase 26 POO 6  Herencias Practica.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Video 29 Clase 26 POO 6  Herencias Practica.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pemka_t9ewg1d\\OneDrive\\Desktop\\GitHub Repositorys\\Python-Learning\\Aprendiendo Python\\Video 27 Clase 25 POO 5.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Video 27 Clase 25 POO 5.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,15 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Video 26 Clase 24 POO 4.py",
-              "DocumentMoniker": "C:\\Users\\Pemka_t9ewg1d\\OneDrive\\Desktop\\GitHub Repositorys\\Python-Learning\\Aprendiendo Python\\Video 26 Clase 24 POO 4.py",
-              "RelativeDocumentMoniker": "Video 26 Clase 24 POO 4.py",
-              "ToolTip": "C:\\Users\\Pemka_t9ewg1d\\OneDrive\\Desktop\\GitHub Repositorys\\Python-Learning\\Aprendiendo Python\\Video 26 Clase 24 POO 4.py",
-              "RelativeToolTip": "Video 26 Clase 24 POO 4.py",
-              "ViewState": "AgIAABIAAAAAAAAAAAAIwCMAAAAAAAAAAAAAAA==",
+              "Title": "Video 29 Clase 26 POO 6  Herencias Practica.py",
+              "DocumentMoniker": "C:\\Users\\Pemka_t9ewg1d\\OneDrive\\Desktop\\GitHub Repositorys\\Python-Learning\\Aprendiendo Python\\Video 29 Clase 26 POO 6  Herencias Practica.py",
+              "RelativeDocumentMoniker": "Video 29 Clase 26 POO 6  Herencias Practica.py",
+              "ToolTip": "C:\\Users\\Pemka_t9ewg1d\\OneDrive\\Desktop\\GitHub Repositorys\\Python-Learning\\Aprendiendo Python\\Video 29 Clase 26 POO 6  Herencias Practica.py",
+              "RelativeToolTip": "Video 29 Clase 26 POO 6  Herencias Practica.py",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-06-26T15:40:07.278Z",
+              "WhenOpened": "2026-07-01T22:29:18.326Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Video 27 Clase 25 POO 5.py",
+              "DocumentMoniker": "C:\\Users\\Pemka_t9ewg1d\\OneDrive\\Desktop\\GitHub Repositorys\\Python-Learning\\Aprendiendo Python\\Video 27 Clase 25 POO 5.py",
+              "RelativeDocumentMoniker": "Video 27 Clase 25 POO 5.py",
+              "ToolTip": "C:\\Users\\Pemka_t9ewg1d\\OneDrive\\Desktop\\GitHub Repositorys\\Python-Learning\\Aprendiendo Python\\Video 27 Clase 25 POO 5.py",
+              "RelativeToolTip": "Video 27 Clase 25 POO 5.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-01T22:26:05.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
