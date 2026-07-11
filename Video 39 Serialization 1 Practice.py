@@ -10,9 +10,9 @@ fichero_binario = open("lista_nombres","wb")
 
 # para usar el metodo dump debemos primero usar la libreria pickle + .dump() dentro de los parentesis van el archivo y el nombre del archivo como parametros
 
-# pickle.dump(lista_nombres, fichero_binario)
+pickle.dump(lista_nombres, fichero_binario)
 
-# fichero_binario.close()
+fichero_binario.close()
 
 # Para borrar el fichero de la memoria usamos del()
 
